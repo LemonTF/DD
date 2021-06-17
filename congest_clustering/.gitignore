@@ -1,0 +1,13 @@
+*.o
+/test/
+*.out
+missing
+core*
+*.log
+depcomp
+install-sh
+/autom4te.cache/
+*.m4
+*.sh
+/.deps/
+congestion_clustering
